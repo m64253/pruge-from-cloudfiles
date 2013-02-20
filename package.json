@@ -1,0 +1,11 @@
+{
+	"name": "pruge-from-cloudfiles",
+	"version": "0.1.1",
+	"bin": [
+		"cfpurge": "./bin/cfpurge"
+	],
+	"dependencies": {
+		"asyncjs": "*",
+		"request": "*"
+	}
+}
